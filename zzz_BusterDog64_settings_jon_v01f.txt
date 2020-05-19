@@ -1,0 +1,17 @@
+
+Includes :
+# DoubleCmd /opt/doublecmd/doublecmd.xml
+
+# slim manager config/enable files 
+ - /etc/slim.cfg
+ - /etc/systemd/system/display-manager.service
+ - /etc/X11/default-display-manager
+ - /etc/X11/Xsession.d/20slim_locale
+
+# load_and_mount_dat_files_v01.squashfs
+
+# deb_rename_control_files_with_foldername_jon.sh
+
+# htdocs_make_all_subfolders_deamon_owner_and_777.sh
+
+# added smplayer cp1253 subtitle encoding
