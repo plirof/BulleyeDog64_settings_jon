@@ -344,7 +344,7 @@
     <AutoSizeColumn>1</AutoSizeColumn>
     <CustomColumnsChangeAllColumns>False</CustomColumnsChangeAllColumns>
     <BriefViewFileExtAligned>False</BriefViewFileExtAligned>
-    <DateTimeFormat>mm/dd/yy hh:nn:ss</DateTimeFormat>
+    <DateTimeFormat>dd/mm/yy hh:nn:ss</DateTimeFormat>
     <CutTextToColumnWidth>True</CutTextToColumnWidth>
     <ExtendCellWidth>False</ExtendCellWidth>
     <ShowSystemFiles>True</ShowSystemFiles>
