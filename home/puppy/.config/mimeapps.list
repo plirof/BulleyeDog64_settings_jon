@@ -25,6 +25,8 @@ application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoff
 application/msword=libreoffice6.4-writer.desktop;
 application/vnd.ms-powerpoint=libreoffice6.4-impress.desktop;
 application/vnd.ms-excel=libreoffice6.4-calc.desktop;
+image/jpeg=XnView.desktop;
+image/gif=XnView.desktop;
 
 [Added Associations]
 x-scheme-handler/http=userapp-Firefox-GYQGMY.desktop;userapp-Firefox-0YUKFX.desktop;userapp-Firefox-G7LFMY.desktop;userapp-Firefox-0PHVMY.desktop;
@@ -47,7 +49,7 @@ application/x-squashfs=userapp-filemnt-IAQW9W.desktop;exo-file-manager.desktop;
 image/png=XnView.desktop;gpicview.desktop;
 application/x-cd-image=userapp-filemnt-4VJFAX.desktop;
 application/x-shellscript=leafpad.desktop;
-image/jpeg=gpicview.desktop;firefox-esr.desktop;
+image/jpeg=XnView.desktop;gpicview.desktop;firefox-esr.desktop;
 application/octet-stream=leafpad.desktop;exo-file-manager.desktop;
 application/x-awk=leafpad.desktop;
 application/vnd.squashfs=userapp-filemnt-5893PY.desktop;exo-file-manager.desktop;
@@ -57,7 +59,7 @@ inode/symlink=exo-file-manager.desktop;
 application/x-xbel=leafpad.desktop;
 application/x-sharedlib=exo-file-manager.desktop;
 video/mp4=smplayer.desktop;mpv.desktop;
-image/gif=firefox-esr.desktop;mtpaint.desktop;gpicview.desktop;
+image/gif=XnView.desktop;firefox-esr.desktop;mtpaint.desktop;gpicview.desktop;
 video/mpeg=mpv.desktop;
 text/x-log=leafpad.desktop;
 text/markdown=leafpad.desktop;
