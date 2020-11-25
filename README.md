@@ -15,7 +15,7 @@ so it gets loaded LAST...
 - deb_rename_control_files_with_foldername_jon.sh
 - htdocs_make_all_subfolders_deamon_owner_and_777.sh
 - phpserver_jon.sh  Simple server
-- 
+- zzz_fix_xterm-256-error_.squashfs (201125)
 - 
 
 
