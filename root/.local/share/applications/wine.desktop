@@ -1,0 +1,6 @@
+[Desktop Entry]
+NoDisplay=1
+Exec=wine
+MimeType=application/x-ms-dos-executable
+Name=wine
+Type=Application
