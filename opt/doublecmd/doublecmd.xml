@@ -634,7 +634,7 @@
     <HotDir Name="home_linux_folder" Path="/mnt/home/sfs_pet_/apt2sfs_debiandog64"/>
     <HotDir Name="live" Path="/mnt/homestretchdog-debdive64/live"/>
     <HotDir Name="Puppy_Downloads" Path="/home/puppy/Downloads"/>
-    <HotDir Name="dogbuster_mklive64" Path="/mnt/home/dogbuster_mklive64"/>
+    <HotDir Name="dogbullseye_mklive64" Path="/mnt/home/dogbullseye_mklive64"/>
     <HotDir Name="root" Path="/root"/>
     <HotDir Name="htdocs" Path="/opt/lampp/htdocs"/>
     <HotDir Name="MENU_usr_share_applications" Path="/usr/share/applications"/>
@@ -898,9 +898,9 @@
                   <Path Filename="stretchdog-debdive64">/mnt/home/</Path>
                   <Path Filename="live">/mnt/home/stretchdog-debdive64/</Path>
                   <Path Filename="..">/mnt/home/stretchdog-debdive64/live/</Path>
-                  <Path Filename="dogbuster_mklive64">/mnt/home/</Path>
-                  <Path Filename="live">/mnt/home/dogbuster_mklive64/</Path>
-                  <Path Filename="..">/mnt/home/dogbuster_mklive64/live/</Path>
+                  <Path Filename="dogbullseye_mklive64">/mnt/home/</Path>
+                  <Path Filename="live">/mnt/home/dogbullseye_mklive64/</Path>
+                  <Path Filename="..">/mnt/home/dogbullseye_mklive64/live/</Path>
                 </Paths>
               </Entry>
             </History>

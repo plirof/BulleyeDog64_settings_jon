@@ -79,8 +79,6 @@
       <property name="items" type="array">
         <value type="string" value="15872142712.desktop"/>
         <value type="string" value="15119436561.desktop"/>
-        <value type="string" value="15119437122.desktop"/>
-        <value type="string" value="15119444013.desktop"/>
         <value type="string" value="13907573241.desktop"/>
       </property>
     </property>
@@ -88,7 +86,6 @@
       <property name="items" type="array">
         <value type="string" value="15119444164.desktop"/>
         <value type="string" value="15119444355.desktop"/>
-        <value type="string" value="15119444466.desktop"/>
         <value type="string" value="13980744861.desktop"/>
       </property>
     </property>
